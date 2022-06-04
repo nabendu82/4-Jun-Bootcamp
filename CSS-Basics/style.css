@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/* .my-list li:first-child{
+    background: aqua;
+}
+
+.my-list li:last-child{
+    background: pink;
+} */
+
+.my-list li:nth-child(even){
+    background: olive;
+}
+
+.my-list li:nth-child(odd){
+    background: pink;
+}
+
